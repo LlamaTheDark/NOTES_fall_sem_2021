@@ -7,19 +7,25 @@ $N={E, O, D}$<br>
 $T={0, 1, 2, \dots, 9, +, -, *, /}$<br>
 $S=E$<br>
 $P=\{\\
-	E \rightarrow D | OEE,\\
-	O \rightarrow + | - | * | /,\\
-	D \rightarrow 0 | 1 | 2 | \dots | 9\\
-	\}\\$
+\qquad E \rightarrow D | OEE,\\
+\qquad O \rightarrow + | - | * |\text{ } / \text{ },\\
+\qquad D \rightarrow 0 | 1 | 2 | \dots | 9\\
+\}\\$
 
-This grammar represents arithmetic expressions in prefix notation. See the table below for a quick example:
+This grammar represents arithmetic expressions in prefix notation.
+
+---
+*An aside on prefix notation*:
+
+See the table below for a quick example:
 | infix expression | prefix expression | postfix expression |
 |------------------|-------------------|--------------------|
 | $A+B$            | $+AB$             | $AB+$              |
 | $A+B*C$          | $+A*BC$           | $ABC*+$            |
 
-
 see [this site](https://runestone.academy/runestone/books/published/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html) for more details
+
+---
 
 ## The Algorithm
 1. If we can match the current symbol of our terminal string with a producible terminal, we choose that production.
@@ -44,3 +50,66 @@ The prefix grammar we wrote above is an **$LL(1)$** grammar. Say we want the ter
 ## FIRST Set
 In a $LL(1)$ grammar, we only have to look at the **first** character of the terminal string to choose the correct production, for all productions in all possible derivations. We use something called **FIRST sets** to help better understand these kinds of grammars. Dr. Goodrich says:
 > Let $A$ denote some nonterminal in the parse tree. The children of $A$ in the parse tree are derived by applying the production $A \rightarrow RHS$ and putting the terminals and nonterminals from the right-hand side, $RHS$, into the tree as children of $A$. Any terminal that can be the leftmost descendent in the subtree under $A$ belongs in the $FIRST$ set of $A$. $FIRST$ sets capture what nonterminals can appear as a leftmost descendent of $A$ when you apply $A \rightarrow RHS$.
+
+Read that last line again, it pretty much sums it up:
+> **$FIRST$ sets capture what nonterminals can appear as a leftmost descendent of $A$ when you apply $A \rightarrow RHS$.**
+
+### Example
+Consider again our $LL(1)$ prefix arithmetic grammar. We start with $E$. We have 2 possible productions from here:
+$$
+E \rightarrow D \quad | \quad E \rightarrow OEE
+$$
+
+Looking at the first one, we know that the first, leftmost terminals that can be produced from the right hand side of the production (i.e. $D$) are $0, 1, 2, \dots, 9$. Thus we say,
+$$
+FIRST(E \rightarrow D) = \{ 0, 1, 2, \dots, 9 \}
+$$
+Likewise, let's take the leftmost nonterminal on the right hand side of the production $E \rightarrow OEE$. The nonterminal spoken of is $O$. We can now say,
+$$
+FIRST(E \rightarrow O) = \{ +, -, *, / \text{ } \}
+$$
+Why? See the image below:
+![](img/lesson_7_0.png)
+
+Hopefully this is starting to make sense for you.
+
+### FIRST Set Formal Definition
+The **FIRST set** of a production is the set of all first terminals it can eventually produce (since we are dealing with leftmost derivations, we mean the first, leftmost terminal produced by the current production).
+
+We say that a grammar is $LL(1) \iff$ the $FIRST$ sets for *all* productions of *all* terminals is **disjoint** (that is, they don't share any elements).
+
+E.g. the sets $FIRST(E \rightarrow O)$ and $FIRST(E \rightarrow D)$ are disjoint because they share no elements.
+
+More examples of $FIRST$ sets from our grammar above: $FIRST(O \rightarrow +)=\{+\},\quad FIRST(O \rightarrow -)=\{-\},\quad FIRST(D \rightarrow 2)=\{2\}$.
+
+## Parse Tables
+A parse table helps guide us through $LL(k)$ grammar parsing. The rows are all nonterminals and terminals, while the columns are only the nonterminals. Both the rows and columns have an additional character $\#$.
+
+The parse table is built around a push-down automaton (PDA). The way it works is:
+* find the leftmost character of our input string in the column labels.
+* find the leftmost nonterminal in our parsing string in the rows.
+* perform the productions listed from the nonterminal row downwards.
+* pop that character and repeat.
+
+Example:
+$P=\{\\
+\qquad E \rightarrow D_{(1)} | OEE_{(2)},\\
+\qquad O \rightarrow +_{(3)} | *_{(4)} \\
+\qquad D \rightarrow 0_{(5)} | 1_{(6)} | 2_{(7)} | 3_{(8)}\\
+\}\\$
+Here we've enumerated the productions for output in a program. The following is the appropriate table **parse table**.
+![](img/lesson_7_1.png)
+
+Let's use this table to parse 2 strings. First:
+$$
+*-+123
+$$
+![](img/lesson_7_2.png)
+
+Now let's try an invalid string:
+$$
+1+2
+$$
+![](img/lesson_7_3.png)
+
+In code, using a table to parse is pretty inefficient. Instead we'll use **recursive-decent parsing**. But that's for the next lessons.

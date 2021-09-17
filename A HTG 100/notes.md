@@ -213,6 +213,43 @@ other of injustice, let judgment be given which of them is the happier of the tw
 ## 9/14 - Mr. Smith Goes to Washington (FILM)
 
 ## 9/15 - Mr. Smith Goes to Washington (FILM) & English Principles and Revolutions
+* John Locke's 2nd something
+
+* Rule of Law
+
+* King James
+	* he did the bible (well his scholar ppl did)
+	* came to the throne after the death of queen elizabeth the first
+	* was king of scottland
+	* doesn't like parliament
+	* The law said that he could request a ship in times of need.
+		* But really he could do it whenever he wanted
+	* He used "ship money" - when ppl couldn't provide ships, he said they could do money instead
+		* used it to evade parliament
+		* they didn't like it so they killed him
+		* "KING IS SUBJECT TO PARLIAMENT"
+	* parliament rule lasts a while, but ultimately craps itself
+	* 1649 - behead charles *
+	* 1653 - 1659 - oliver cromwell rules the commonwealth
+	* 1660 - charles II, charles I's son.
+		* continues contest
+	* 1685 James II--a catholic-- succeeds his uncle charles II
+		* ppl don't like catholics
+		* so parliament said if you wanna hold office in parliament you gotta publicly dissavow catholicism ("Test Act ")
+	* the whigs organize a revolution - the glorious revolution of 1688
+		* King William and Queen Mary promise to rule subject to the consent of the parliament
+	* **John Locke** helps them provide intellectual grounds for the revolution in his essay: **The Second Treatise**.
+		* famous work on social contract theory
+		* personal sovereignty
+		* rejected divine rights of king
+
+### Locke's Argument
+1. In a "state of nature" everyone lived in a state of freedom and equality.
+2. Humans invented government to secure their rights in this state.
+3. Government's *only* purpose is to protect the rights of the citizens.
+4. The consent of the government is required for the legitimacy of the government.
+5. Any government that does not protect the rights of the citizenry should be abolished.
+
 
 ## 9/17 - (LAB) Communities and Revolution
 
