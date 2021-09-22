@@ -29,3 +29,4 @@ Seer stones are a product of Joseph's time. So why don't we talk about them very
 	* Joseph gradually learns to translate without the seer stones. what significance did they have?
 
 ## Book of Mormon Translation Timeline
+![image won't load for some reason](img\lesson_4_0.png)

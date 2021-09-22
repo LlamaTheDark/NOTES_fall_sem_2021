@@ -24,3 +24,9 @@
 | Common Ancestor | Population from which 2 species evolved |
 | Branch | Changes over time |
 | "checkpoints" | Traits / characters  that evolved (somewhere along the branch it evolved, not necessarily at a node) |
+| morphological species concept | Physical traits |
+| biological species concept | Two types: pre- and post- zygotic. A zygote is a fertilized egg. |
+| ecological species concept | Live, resources |
+| Phylogenetic species concept | DNA |
+| Sympatric Speciation | Speciation due to a non-physical barrier / separation. |
+| Allopatric Speciation | Speciation due to an actual physical barrier. |
