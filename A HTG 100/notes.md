@@ -256,12 +256,127 @@ other of injustice, let judgment be given which of them is the happier of the tw
 ## 9/20 - The Rule of Law
 
 ## 9/22 - Incentives and Virtue
+The Boston Massacre:
+* The people or the mob?
+	* We can't let the mob have justice by virtue of it being a mod
+	* But at the same time, the rule of law comes from the consent of the people
+	* How to tell the difference between reasonable people or a mob?
+* The rule of law gives us *predictability*
+	* It implies that the individual has some autonomy and freedom.
+		* This is only true if we keep the government limited enough that it cannot violate people's rights.
+### Key threats to the rule of law:
+1. Politicians
+	* the rule of law must be preserved no matter which side you're on (no matter what your agenda is).
+2. Constituents (i.e. ***us***)
+ 	* people will break the rule of law if their constituents demand it
+
+The trouble with creating the rule of law is creating a legislature that accurately represents the people at large.
+
+### Perpetual Motion Machine
+Cannot exist, but we can get pretty close.
+
+What kind of legislators do we want to populate our legislature?
+* Ones who are self-interested?
+* Ones who are virtuous?
+* Do we really like someone who refuses to yield out of principle?
+	* We might like commitment to his own principles, we might sympathize with it, but do we really want him to represent *us*?
+* Representatives vs Incentives
+	* Incentive: Something that motivates or encourages somebody to do something.
+	* Think groundhog day: How would incentives change living as a representative? No consequences?
+* A man who doesn't care about what others thing also doesn't respond to outside incentive.
+
+### Richard Rich
+At the time, you had to be accepting of some amount of corruption (bribes).
+
+> A man should go where he can't be tempted.
 
 ## 9/24 - (LAB) Rule of Law and Electoral Incentives
+### Rule of Law Principles:
+1. Generality
+	* The laws must be general. They must apply to broad categories of people, not to specific individuals or groups. We should never know in advance who will be helped or hurt by a law.
+	* More about how the law is *written* (vs **Due Process**).
+2. Prospectivity
+	* The law should apply prospectively - to action in the future not action in the past.
+3. Publicity
+	* The laws should be publicly known and certain. People should know what the law is and know that it will be enforced. There should be a fairly standard punishment for violation.
+4. Due Process
+	* THe legal process must be applied impartially. Justice must not be prejudiced for or against anyone.
+	* More about how the law is *enforced* (vs **Generality**).
+	* Most common example is the lack of a fair trial.
+5. Consent
+	* The laws must be generally acceptable to those who must live by them.
+	* Balance between mob rule and consent defined in government.
+
+For the assignment, you may just want to focus on one principle - how it's threatened or supported. DO A FEW WEEKS AGO WHEN YOU GOT A PARKING TICKET.
+
+### Electoral Incentives
+
 
 ## 9/27 - The Ingredients of the Founding
+We're gonna get some perspective in this class apparently.
+
+### A Most Justified Revolution: St. Domingue - called Haiti, today
+* Society built on slavery.
+	* Most slaves lasted fewer than 5 years.
+	* Since overturn was so high, they didn't accomplish goals through relationship building, but through fear and torture.
+	* Forced slaves to be baptized roman-catholic
+	* Slaves could only marry with the master's permission (though they had to consent as well, at least in the law)
+	* Children of slave marriages became slaves of the master (the master of the woman).
+	* Slaves could engage in essentially no economic activity without their master's permission, though market trading and local exchange were common - in part to keep slaves from **rebelling**.
+		* Allowed slaves sometimes to have side hustles so they wouldn't revolt.
+* The Hatian Revolution 1790s
+	* Toussaint Louverture
+		* He was truly a great revolutionary.
+		* Leads the Hatian revolution.
+		* Born a slave on a plantation
+		* Rises through ranks, buys freedom in 1770
+		* Owns 3 plantations
+		* Realizes there's an opportunity for revolution and to build something.
+	* Insistent that slavery must end.
+	* Once he's revolted, ***what kind of society would he build?***
+		* Economically Restricted
+		* Authoritarian (with him at the center)
+	* Constitution written by Toussaint
+		* No slavery
+		* Toussaint would be sole ruler for life.
+	* Toussaint forces people back onto plantations (not as slaves but just in bad working conditions).
+	* Napoleon lead an assault against Toussaint.
+	* Jean Jacques Dessalines, Louverture's successor
+		* Was ruthless on a scale not dreamt of before that.
+		* Dictator.
+		* Killed thousands of whites.
+		* Didn't allow whites to own property.
+		* He killed anyone who threatened his power.
+	* There are *no institutions* created in or as a result of the Hatian revolution.
+	* **Final Note**
+		* American slaves may have lived longer and been treated better, but it was not **morally** better.
+* Revolutions are shaped by what comes *after* the initial battles.
+* People need a commitment to the Good Society in order to create it.
+* The Rule of Law is necessary for a good society.
+* America had experience with self-government. The Hatians did not.
+	* Self-government was so successful in the American colonies because there's so much distance between them and Britain.
+* People in the good society must be capable of governing themselves - with sufficient degrees of virtue.
+* You will also need legislature that is **incentivized**. Okay wait there's a whole list thing
+
+### INGREDIENTS OF THE FOUNDING OF A GOOD SOCIETY:
+* A commitment to creating a good society
+* The rule of law
+* Distance from the center of power in order to have self-government
+* A virtuous citizenry
+* An incentivized legislature
 
 ## 9/29 - The Economic Roots of the Founding
+### John Hancock
+From American Perspective:
+* Merchant, statesman, patriot
+
+From British Perspective:
+* Smuggler, rebel, rraitor
+
+He's like the Han Solo of the Revolution.
+
+
+
 
 ## 10/1 - (LAB) Economics & Revolutions
 

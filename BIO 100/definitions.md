@@ -30,3 +30,6 @@
 | Phylogenetic species concept | DNA |
 | Sympatric Speciation | Speciation due to a non-physical barrier / separation. |
 | Allopatric Speciation | Speciation due to an actual physical barrier. |
+| Natural Selection | Natural: Environment, Selection: Survived *and* reproduced. \*reproduction of the fittest |
+| Evolution | Change over time |
+| Random Mutations |  |
