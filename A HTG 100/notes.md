@@ -300,7 +300,7 @@ At the time, you had to be accepting of some amount of corruption (bribes).
 3. Publicity
 	* The laws should be publicly known and certain. People should know what the law is and know that it will be enforced. There should be a fairly standard punishment for violation.
 4. Due Process
-	* THe legal process must be applied impartially. Justice must not be prejudiced for or against anyone.
+	* The legal process must be applied impartially. Justice must not be prejudiced for or against anyone.
 	* More about how the law is *enforced* (vs **Generality**).
 	* Most common example is the lack of a fair trial.
 5. Consent
@@ -375,10 +375,49 @@ From British Perspective:
 
 He's like the Han Solo of the Revolution.
 
+### Markets
+How do markets fit into the *Good Society*? We like markets but they do a lot of good stuff for us, but they might not perfectly fit our Good Society model thing.
 
+One of the primary sources of conflict between England and the colonies is economic interests and freedom. The English government was like bruh this is why we even sent you over here.
 
+Colonists saw themselves as land-rich but labor-poor.
+
+### Mercantilism
+Based largely on the idea that the thing that mattered and made the most difference was how much gold and silver (currency) was passing through the hands of the government. So the British goal was to increase the gold and silver reserves of the empire.
+
+They restrict imports, especially manufactured goods from other European countries with tariffs and keep technology secret. (discouraging imports)
+
+Encouraging exports with subsidies.
+
+The colonies will supposed to provide raw materials and some consumption goods to Britain, but not allowed to do so to other countries. The colonists wanted to sell the goods to the highest bidder.
+
+### Two Forms of Economic
+#### Decentralized: Free Exchange
+* Capitalism
+* Market Economy
+
+#### Centralized: Command, Planned, or Regulated
+* Socialism (classic definition)
+* Communism
+* Mercantilism
 
 ## 10/1 - (LAB) Economics & Revolutions
+* Ingredient of the founding
+	* A commitment to creating a god society
+	* The rule of law
+	* A history of self-governance
+	* Distance from the center of power
+	* Virtuous people
+	* A legislature that is incentivized to respond to the people
+
+### Economic Exchanges
+* Should exchanges favor the wealthy or the deeply committed?
+* What if instead of donuts, it was medication which only a few people needed.
+* Should someone be able to substitute their judgement of a transaction for the judgement of the parties involved?
+	* When should they be able to do this?
+	* What characteristic qualifies them for this?
+#### Key takeaway:
+* Exchanges have to be free and have to make both parties feel better off, but if they do fit those criteria they produce significant value - nothing was created, it was just moved around.
 
 # <u>Act II: Designing Our Institutions</u>
 ## 10/4 - Markets and Incentives

@@ -33,3 +33,5 @@
 | Natural Selection | Natural: Environment, Selection: Survived *and* reproduced. \*reproduction of the fittest |
 | Evolution | Change over time |
 | Random Mutations |  |
+| Intraspecific | same species |
+| Interspecific | different species |
