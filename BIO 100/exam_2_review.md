@@ -455,7 +455,7 @@ Again, use your brain you will be fine.
 
 ## Predict ways in which predator/prey relationships can influence the evolution of each player.
 
-Prey will likely evolve to be more evasive/defensive of the predator, and the predator will likely evolve to more efficiently hunt the prey. Things like that. Again use your brain you got this. 
+Prey will likely evolve to be more evasive/defensive of the predator, and the predator will likely evolve to more efficiently hunt the prey. Things like that. Again use your brain you got this.
 
 ## Identify each symbiosis in humans.
 
