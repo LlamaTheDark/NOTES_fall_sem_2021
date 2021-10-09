@@ -423,6 +423,77 @@ The colonies will supposed to provide raw materials and some consumption goods t
 ## 10/4 - Markets and Incentives
 
 ## 10/6 - Markets or Governments?
+More like Markets ***and*** governments! Both are necessary for a good society
+
+### Gains from trade
+* We are making way more money now than we did before - even adjusting for inflation.
+* Think of how big a computer used to be.
+
+### The Law of Comparative Advantage
+* Producers (people, groups, countries, etc.) specialize in the production of goods where they have the lowest **opportunity cost**.
+	* Notice they don't specialize *necessarily* in the things they're best at
+	* Results in the widest possible gains from trade
+	* Full employment (of all resources)
+	* Interdependence
+
+### Matthew Ridley
+* We're gonna get these gains because our ideas are ***smashing*** (i.e. having sex).
+
+### What mechanism controls society?
+1. Self-control through public virtue
+2. Coercion by government to control self-interest
+3. Structure to use self-interest for the common good
+	* THIS is what markets and prices do
+	* Prices regulate behavior *for the common good*.
+
+### Government & Exchange
+#### The crucial role of government
+* Prevent coercion and fraud
+* Provide money (debatable)
+	* There are ways to have money & resources that are decentralized (like bitcoin).
+* Provide infrastructure (debatable)
+	* The debatable part is what counts as infrastructure and how far it should go.
+* Define property rights
+* Enforce exchange agreements
+* <div style='color:red'>Stop "bad" exchanges (?)</div>
+	<ul><li>but who's to say what is "bad"?</ul>
+* <div style='color:red'>Does the government "fix" problems?</div>
+	<ul>
+		<li>They certainly try, but they mostly suck at it
+		<li>e.g. carbon credits
+		<li>e.g. the "cobra effect"
+	</ul>
+
+###### It is *very* difficult (maybe even impossible) to have a well functioning market without a functioning government.
+* When governments don't do these things well, we have some huge problems. Case study: **Venezuela** inflation.
+###### Any government powerful enough to *ensure* a well functioning market is powerful enough to control, destroy, and ruin it.
+
+#### Motives for Restricting; These are common ideas, but up for debate
+* Paterminalism
+	* people thing the exchange makes them better off, but the government believes it does not or belives that the government can better regualte exchanges.
+* Simply because the exchange seems unfair.
+* A third party is hurt by the exchange.
+* <div style='color: darkblue'>The motive to redistribute income toward a politically favored group.</div>
+	<ul>
+		<li>Case study: 20% tariff on canadian lumber
+		<ul>
+			<li>Helps america lumber industry, but hurts American consumers.
+			<li>Higher prices for new homes, furniture, other types of construction.
+			<li>Fewer jobs in carpentry and construction
+		</ul>
+		<li>Case study: The National Raisin Reserve
+	</ul>
+
+#### The Cobra Effect
+When an attempted government intervention actually makes the problem worse
+* An unintended consequence
+* People respond to incentives, but not always in the ways the government will think
+* E.g. carbon credits
+* E.g. The Americans with Disabilities Act (1990)
+	* requires accomidations for the disables (like ramps for wheelchairs and things like that)
+	* The employment of disabled people actually dropped substaintially in the wake of this act because companies could prevent law suits and costs of ramps and things if they just don't hire disabled people.
+* ***PRIME*** example: The got-damn Stamp Act
+###### Redistribution is different than regulation.
 
 ## 10/8 - (LAB) Economics of the Good Society
 

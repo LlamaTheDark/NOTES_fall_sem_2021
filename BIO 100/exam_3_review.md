@@ -34,11 +34,65 @@ See the terminology table for Day 15 (today).
 ## Describe human sex determination.
 
 
-
-# Day 16  
+# Day 16
 ## Derive the Hardy-Weinberg equation.
 
-## Determine probabilities of each genotype and phenotype given the proportion of alleles in a population. 7
+Given a dominant allele $R$ and a recessive allele $r$, we need two of either or each to define a geneotype. I.e. $RR$, $Rr$, $rR$, $rr$.
+
+Assuming reproduction is random, let the probability of a dominant allele being drawn be $p$ and the probability of a recessive allele being drawn be $p$. i.e. $p$ and $q$ are your **allele frequencies**. Then your **genotype frequencies** are described as such:
+$$
+p+q=1
+$$
+$$
+\text{The probability of a getting a homozygous dominant individual is}\\
+p*p=p^2
+$$
+$$
+\text{The probability of a getting a homozygous recessive individual is}\\
+q*q=q^2
+$$
+$$
+\text{The probability of a getting a heterozygous (and $\therefore$ dominant) individual is}\\
+pq\text{ or }qp = pq+qp = 2pq
+$$
+$$
+\text{The Hardy-Weinberg Equation describing the complete probability of all three possibilities}\\\text{(i.e. these values sum to 1)}\\
+p^2 + 2pq + q^2 = 1
+$$
+
+Furthermore, your **phenotype frequencies** are described as:
+| Phenotype | Frequency |
+|-----------|-----------|
+| Dominant  | $p^2+2pq$ |
+| Recessive | $q^2$     |
+
+###### Recall: The phenotype is based off whether the trait shows or not. In other words, the dominant trait shows if you have the genotype $RR$, $Rr$, or $rR$. These are all separate genotypes, but they all result in the same *phenotype* (the display of the dominant trait).
+
+## Problem Solving Strategy
+1. What have you been given?
+2. What is being asked for?
+* A genotype?
+* A phenotype?
+* An allele?
+
+Once you know the answer to these questions, use the following definitions and some basic algebra to solve the problem.
+
+| Expression / Equation | Definition |
+|-----------------------|------------|
+| $p$ | Dominant allele frequency. |
+| $q$ | Recessive allele frequency. |
+| $p+q=1$ | The probability/frequency of dominant and recessive alleles sum to 1. |
+| $p^2$ | The frequency of a **homozygous dominant genotype**. <br>e.g. $RR$. |
+| $q^2$ | The frequency of a **homozygous recessive genotype**. <br>e.g. $rr$. |
+| $2pq$ | The frequency of a **heterozygous genotype**. <br>e.g. $Rr$ or $rR$. |
+| $p^2+2pq+q^2=1$ | The Hardy-Weinberg equation. States that the genotypic frequencies sum to 1. |
+| $p^2+2pq$ | The frequency of a dominant **phenotype**. <br>e.g. if the creature has $RR$ or $Rr$ or $rR$, it will display a dominant trait and thus have a the dominant phenotype. |
+| $q^2$ | The frequency of a recessive **phenotype**. Notice that this is the same as the frequency of a *homozygous recessive genotype*, because the only way a recessive trait can show is if you have 2 recessive alleles making up the genotype. |
+
+## Determine probabilities of each genotype and phenotype given the proportion of alleles in a population.
+
+
+
 ## Determine allele frequencies given genotypes/phenotypes in a sample of individuals.
 
 ## Determine the change in allele frequencies that will occur in a population over each generation.
@@ -47,12 +101,66 @@ See the terminology table for Day 15 (today).
 
 
 
-# Day 17  
+# Day 17
+## Terminology
 ## Predict the outcome of the violation of each of the given assumptions of Hardy-Weinberg.
+### What does it mean to be in Hardy-Weinberg equilibrium?
+The Hardy-Weinberg equation determines how alleles will be distributed using probability. When the HW equation is in equilibrium, it means that the population and its alleles and proportions of those alleles and phenotypes are **not changing**.
 
 ## Predict which assumption has been violated given allelic frequencies of two populations.
+For a population to be in Hardy-Weinberg equilibrium, there are a few requirements. i.e. we assume the following to be true when modeling a population after Hardy-Weinberg equilibrium.
+1. No **natural selection** is occurring
+2. No **gene flow** (immigration/emigration) is occurring
+3. No **genetic drift** is occurring
+4. Organisms are reproducing at random (no **non-random mating**)
+5. No **mutations** are happening
 
-## Apply the Hardy-Weinberg equation to real-world scenarios to hypothesize evolutionary causes.    
+| Term | Definition |
+|------|------------|
+| Natural Selection | There are differences in fitness. |
+| Gene Flow | Immigration & emigration of a population or individuals in a population. |
+| Genetic Drift | When some outside factor causes there to be a dramatic shift in allele and gene proportions. Two types:<br><li>Founder effect: A few of a population start over somewhere else</li><li>Bottleneck: All of a population are killed off but a few.</li> |
+| Non-random Mating | When mating is not random (wow this is helpful). i.e. ***sexual selection***. |
+| Mutations | Alleles are changing. |
+
+The Hardy-Weinberg equation describes the situation where a population ***is not evolving***. It is our **null** for evolution. Thus if any of the 5 requirements are not met, then the population ***must be evolving***.
+
+###### <u>IMPORTANT NOTE</u>: the definition table is *not* the list of assumptions. It defines terms in the assumptions, but the actual assumptions are the *absence* of the terms in the table. Just look at the numbered list above.
+
+## Apply the Hardy-Weinberg equation to real-world scenarios to hypothesize evolutionary causes
+### Case Study: Malaria
+##### You don't need to know all this, it's just an example
+* Kenya lowlands have high malaria presence, but low morbidity (death rates)
+* Kenya highlands have just recently begun to experience high malaria presence and their morbidity rates are high.
+
+| Thoughts |
+|----------|
+| From Heather: the people in the lowlands have been exposed to malaria for longer, so they have developed genetic resistances (through mutations). Maybe they're different genetically. |
+
+* Moormann et al., 2003, 2003 hypothesized that highland populations have less protective genes than lowland populations.
+* Their test: look at frequency of a known malaria-resistant gene, *Hemoglobin S* (The gene for Sickle Cell Anemia).
+
+If the lowland and highland populations are in Hardy-Weinberg equilibrium, then their genetics should be the same and not evolving.
+
+So we took some datas and here we got the Hemoglobin A/S genotypes.
+
+| Genotype | Lowland area transmission | Highland area transmission |
+|----------|---------------------------|----------------------------|
+| HbAA     | 254 (74%)                 | 340 (97%)
+| HbAS     | 90 (26%)                  | 12 (3%)
+| HbSS     | 0                         | 0
+
+The proportion of A in lowland:
+$$
+\frac{254*2+90}{344*2}\approx .87
+$$
+And in the highland:
+$$
+\frac{352*2+12}{352*2}\approx .98
+$$
+
+So if we've got one S you are more resistant. If you get two S's then you're totally immune apparently but a sad side effect is that most of them die in infancy. So here we see some Stabilizing Selection (away from either homozygous genotype and towards the heterozygous genotype).
+
 ## Compare expected and actual frequencies to hypothesize evolutionary causes.
 
 

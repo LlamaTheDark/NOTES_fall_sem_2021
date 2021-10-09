@@ -7,12 +7,15 @@
 	* Neutralize effects of lurking variables by **assigning** subjects to treatments randomly
 3. Replication
 	* Assign more than one subject to each treatment group to detect important effects
+	* Replication allows us to more precisely measure chance variation.
 4. (Double-Blinding)
 	* Neither the subjects nor the people who evaluate them know which treatment each subject is receiving
 	* Used to prevent experimenter effect
 	* Only really matters if subjects are people
 
 ## Pitfalls in Experimentation
+###### First recall that the definition for *confounded variables*. Two variables are confounded when the effect of one variable on the response variable cannot be separated from the effect of the other variable on the response variable.
+
 ### Placebo effect
 **Definition**: Response by human subjects due to the psychological effect of being treated
 
@@ -24,7 +27,7 @@
 
 ### Diagnostic bias
 **Definition**: Diagnosis of subjects biased by preconceived notions about effectiveness of treatment.
-	* preconception is a confounded lurking variable
+* preconception is a confounded lurking variable
 
 **Solution**:
 1. Blind diagnosticians (doctors)
