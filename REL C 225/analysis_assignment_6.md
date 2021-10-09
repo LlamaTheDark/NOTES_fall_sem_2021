@@ -50,8 +50,23 @@ Your analysis assignment this week is to do your own translation of a scriptural
 
 ### "Translated" verses
 
-2 I, God, took a break from organizing the world for a time equal to a seventh of the total time I would take. I looked at the things I made and noted that they were good in nature and integrity.
+2 I, the Lord God, took a break from organizing the world for a time equal to a seventh of the total time I would take. I looked at the things I made and noted that they were good in nature and integrity.
 
 3 I then blessed and sanctified this seventh period of time as a time of rest, and as an example to the people I would create.
 
-7 From the same ingredients that I, the Lord God, made the earth, I made the body of a man, and bound a spirit with it to create a living soul. While I created everything spiritual
+7 From the same ingredients that I, the Lord God, made the earth, I made the body of a man, and bound a spirit with it to create a living soul. Regardless of the order I create the earthly and temporal bodies of the things I'm making, I created them all spiritually prior to my creation of the Earth. All this was done according to my word.
+
+15 I put the man's soul that I made in the garden of Eden so that he could learn to take care of it.
+
+16 & 17 You can eat any fruit here, but if you eat the fruit of the knowledge of good and evil, you're going to ensure your physical death. I'm going to tell you that you're not allowed to eat it, but I still value your agency so I'm going to let you make the choice yourself.
+
+20 Adam named all the living creatures that I, the Lord God, made. They all had friends and family but Adam was pretty alone.
+
+21-23 I, the Lord God, made Adam fall asleep and I used Adam's likeness (which is my own) to create a woman to be his partner. And Adam was thrilled about it.
+
+### Reflection
+Once you finish your *personal “translation,” write a brief one page double-spaced reflection on what you learned by experience about the process of a) the Joseph Smith Translation of the Bible and b) studying and interpreting scripture for yourself.
+
+I learned a few important things through my experience of trying to translate. The biggest struggle for me was trying to understand the intent of the verses. The thing is that the verses like lots of phrases and cases in modern language today, mean different things based on the context and the purpose for which they were written. For example, some random person you see on the street telling you that your hair looks like trash means something different than if it's your mother telling you. With your mother, you know it comes from a place of love and wanting to help you. With the dude on the street, he's just grumpy. Likewise, there's lots of ways to interpret scripture. Something I learned about my own personal study and interpreting of scripture is that I need to pay more attention to the context and the intent of that which I'm reading. Too often I'll just read a snippet or a quote of a verse or 2 without the context, or I'll see it posted on social media or something like that. The context and intent makes all the difference and that was made super clear in my attempt to interpret these verses for myself.
+
+Furthermore, I have gained a stronger testimony of Joseph Smith as a Prophet and the restorer of the Church of Jesus Christ in the Latter Days. It was very difficult to "translate" those verses for me. I can't imagine doing it with something of actual divine substance for a whole church.
