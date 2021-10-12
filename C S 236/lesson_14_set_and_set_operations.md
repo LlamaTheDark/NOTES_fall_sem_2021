@@ -153,8 +153,7 @@ A_1 \times A_2 \times \dots \times A_n = \{
 \}
 $$
 
-###### Here's some helpful ways to think about calculating the Cartesian product:
-
+##### Here's some helpful ways to think about calculating the Cartesian product:
 ---
 ***full disclosure: I don't know if this is legit or not. I may have made a mistake in the logic here. The code example below is golden though. In fact after coming back to it I'm almost certain this is wrong.***
 
@@ -163,6 +162,10 @@ $$
 (\dots((A_1 \times A_2) \times A_3) \dots ) \times A_n)
 $$
 This way, you're only doing the cartesian product of one two sets at a time so it's the same as the first description we saw.
+
+Yeah so ***don't do this*** because what you're gonna end up with is the product of a Set and a Relation which changes whether order matters in some cases. See `lesson_15_relational_algebra_and_data_model.md`.
+
+I'm gonna keep this here just as something to think about because realizing why it's wrong did help me learn more about this.
 
 ---
 
