@@ -235,7 +235,63 @@ Proof.\text{given the premises, deduce $t$ (i.e. proove that $t$ is always true)
 $$
 
 ## Proofs by Contradiction
-To execute a **proof by contradiction**, we negation the desired conclusion and then continue concluding new premises until we conclude the premise false. This is based on the logical equivalence:
+To execute a **proof by contradiction**, we negation the desired conclusion and then continue concluding new premises until we conclude the premise false. By doing this, we have our contradiction and have proven the desired conclusion false. This is based on the logical equivalence:
 $$
 p \rightarrow q \equiv (p \wedge \neg q) \rightarrow F
 $$
+
+### Proof by Contradiction using Resolution
+We use the **rule of inference**, ***resolution***,  to streamline proofs. To do this, follow the proceding steps:
+1. Convert all starting premises into Conjunctive normal form (CNF)
+	* recall that CNF is defined by the following:
+		* terms are *grouped* by disjunction and *separated* by conjunction.
+		* negation must be atomic
+		* conditional and bi-conditional operators are not allowed
+2. Apply **resolution** and/or **disjunctive syllogism** until we conclude the conclusion.
+	* recall that disjunctive syllogism is just a special type of resolution.
+	* this makes it so that we can more easily and systematically streamline proofs; we *always* use resolution at each step instead of attempting to figure out which rule of inference to apply.
+
+We can automate this process. Here's the intuition behind it:
+* We know each argument $A$ is true.
+* We want to prove the conclusion $C$.
+* We can negate $C$ and then show that $A \wedge \neg C$ is false.
+* Because we know that $A$ is true, the only case in which $A \wedge \neg C$ is false is if $\neg C$ is false.
+	* i.e. $(A \text{ and } A \wedge \neg C) \rightarrow \neg C$
+* If $\neg C$ is false, then $C$ must be true.
+	* i.e. $\neg(\neg C)\rightarrow C$
+
+##### Here I say the same thing in a more technical way:
+We must show that the compound proposition $A \rightarrow C$ is a **tautology**. With implication ($\rightarrow$), if the LHS is true, it does not tell us anything about the truth value of the RHS. So our goal is to prove that *the right hand side (the conclusions) cannot be false, if the left hand side (the arguments) are true*. Consider the following:
+
+We want to prove that $A \rightarrow C$
+$$
+\begin{alignat}{1}
+1.& \quad & A \rightarrow C\\
+2.& \quad \neg & A \vee C \qquad \text{using Conditional-disjunction equivalence}
+\end{alignat}
+$$
+
+So proving $\text{2}$ is the same as proving $\text{1}$. We can negate 2 and get:
+
+$$
+\begin{alignat}{1}
+3. & \quad \neg & (\neg A \vee C)\\
+4. & \quad & A \wedge \neg C \qquad \text{using De Morgan's Law}
+
+{\qquad\qquad\qquad\quad}
+
+\end{alignat}
+$$
+
+This matches the intuition we outlined above.
+
+##### Since $4$ is the negation of $2$, both $4$ and $1$ cannot be a tautology. Remember that $A$ is always true. Thus, if we negate our conclusion and use a simplification with $A$ to show that we find a contradiction, then statement $2$ is a tautology and we have thereby proved our conclusion.
+
+---
+
+Basically:
+We assume a proposition is not true, and then find a contradiction that shows we must have been wrong about it being not true. Thus, it has to be true.
+
+So we'll assume $A \wedge \neg C$ is true and then use resolution to find a contradiction, showing $A \wedge \neg C$ is actually false. Thus, $\neg A \vee C$ must be true and subsequently so must $A \rightarrow C$.
+
+---
