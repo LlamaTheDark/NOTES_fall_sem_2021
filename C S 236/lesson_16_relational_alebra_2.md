@@ -6,6 +6,7 @@
 4. [**Datalog**: Queries](#evaluating-datalog-queries)
 5. [Binary Operators](#binary-operators)
 6. [**Datalog**: Rules](#evaluating-datalog-rules)
+7. [Order of Operations Notes](#final-notes-on-order-of-operations)
 
 ## Relational Data Model
 * The **relational data model** (RDM) is a way that we can use relations to represent data.
@@ -212,3 +213,23 @@ e.g. 3 (column ordering doesn't matter)
 
 
 ## Evaluating Datalog Rules
+```
+myScheme('c', X) :- myScheme('a', X), myScheme('b', X).
+```
+Equivalent to:
+$$
+\forall x [\text{myScheme}(\text{‘$a$’},X) \wedge \text{myScheme}(\text{‘$b$’},X) \rightarrow \text{myScheme}(\text{‘$c$’},X)]
+$$
+
+Follow these steps to evaluate rules:
+1. Evaluate each predicate on the right-hand side of the implication (or the left-hand side of the colon-dash token)
+2. Join all intermediate relational tables that correspond to the predicates.
+	* The table created by this is a table which contains *new* facts.
+	* It's possible that, given the new facts, the rules can generate even more facts.
+		* Because of this, we have to iterate through steps $1.$ and $2.$ until no new facts are generated.
+	* An algorithm that continues to run until it converges on the final answer is called a **fixed-point** algorithm.
+		* Our evaluation of rules using the relational data model is an example of this.
+
+## Final Notes on Order of Operations
+* Unary operations are performed before binary operators.
+* Unary operators are performed right-to-left (inside to outside).

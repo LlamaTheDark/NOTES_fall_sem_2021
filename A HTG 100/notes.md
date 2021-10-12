@@ -498,6 +498,63 @@ When an attempted government intervention actually makes the problem worse
 ## 10/8 - (LAB) Economics of the Good Society
 
 ## 10/11 - Declaring Independence
+### Samuel Adams
+> Our trade has for a long time labord under great discouragements; & it is with the deepest concern that we see such further difficultys coming upon it which will reduce it to its low ebb, if not totally obstruct and ruin it. - 1764 instructions to colonial agent in London
+
+* Samuel Adams takes the American Revolution (complaints, gatherings, talkings, and thinking) and turns it into a **real revolution**.
+
+### Independence
+* The colonists had come to believe that the answer to the central course questions did not lay in Parliament or the Crown, at least as tghey existed in the early 1770s.
+* They wanted to take steps to **decentralize** the government slightly more than it was.
+
+### What led to the revolution?
+* Washington is the general and he's totally depressed about the condition of his troops when he first gets there.
+* Economics
+	* The interests of the colonists conflicted with the interests of the British - taxes, trade restrictions and land policy.
+* Leadership: **political entrepreneurs**
+	* An educated elite molded public opinion for independence - Franklin, The Adams cousins, etc...
+	* The American Revolution was one ***huge*** collective action problem.
+* Local Political Power: **selective incentives**
+	* If you wanted status and noteriety, you can go join the revolutionary meetings and things like that.
+* Educated Masses
+	* It was not *just* the leading lights of the community: tradesmen like Revere became caught up in the movement
+	* It wasn't just the leaders.
+	* *Common Sense*, Thomas Paine
+		* Pamphleteering was crucial for shaping public opinion.
+		* John adams:
+			* > The Revolution was effected before the war commenced. The Revolution was in the minds and hearts of the people.
+* Habits: **believe system**
+	* The colonists were accustomed to colonial government with some power in the colonial legislature.
+	* The British had kind of ignored the colonists and they had to kind of govern themselves *anyways*.
+
+### Battle of Lexington
+* British troops quartered in Boston decided to try and seize the gunpowder and all that which they thought was stored up by the Americans in Lexington.
+* The first battle of the American Revolution.
+* Americans were not ready to stand up to the British army in a straight up fight.
+* But at the same time, the redcoats were not quite prepared for a full-blown rebellion.
+
+##### The colonists were not completely united
+* About 25-30% of colonists were loyal to Britain and the King. They were called **Tories**.
+* Ben Franklin's son was one of them. It pretty much killed their relationship.
+
+##### The Declaration was Controversial
+* The colonists debated long and hard before agreeing to take this momentous step. They did not do it lightly.
+* Declaring independence (& essentially war) would destroy all hope of peace and reconciliation.
+* Independence was a military necessity. America could not win without foreign assistance, which they could not receive without first delcaring an independent state.
+
+### John Adams and the Atlas of Independence
+* This was John Adams' greatest service to his country
+* While Jefferson wrote it, it was Adams who caused it to be written.
+
+#### Pauline Maier on the Declaration
+At first people disregarded it. It was designed first and foremost for domestic consumption. And to the colonists, it was the **end** of the declaration that was the important part.
+* This is the part where they say they are an independent state and as such can do independent state things.
+
+### The Declaration of Independence
+1. All individuals are created equal
+2. All are endowed by their Creator with unalienable rights
+3. Government, with power from the people, should secure those rights.
+4. If government fails to do this, it should be removed
 
 ## 10/12 - A More Perfect Union (FILM)
 

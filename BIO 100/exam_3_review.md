@@ -166,7 +166,35 @@ So if we've got one S you are more resistant. If you get two S's then you're tot
 
 
 # Day 18  
+## Terminology
+| Term | Definition |
+|------|------------|
+| Chromosome | A packet of DNA - 23 pairs
+| Gene | A Recipe for a trait
+| Allele | Variations of a gene
+| Homologous | Same genes, same order, but **NOT** necessarily the same alleles
+| Sister Chromatid | Duplicates of a chromosome
+
+## Something to do with $n$
+$$
+an=b
+$$
+* $a$: the number of copies of a gene
+* $n$: the number of unique chromosome types
+* $b$: the total number of chromosomes
+
 ## Draw the process of meiosis.
+
+**Meiosis** is a type of cell division that reduces the number of chromosomes in the parent cell by half and produces four gamete cells. So it's turning diploids into a haploids.
+
+### Sperm production example
+Jack has a $2n=46$ structure (like all people). Since it's $2n$ he's got diploid cells.
+* The cells that make sperm start out as diploids
+* Before we go through meiosis the cell duplicates its chromosomes
+* So we get these "ropes" that come out from the edges of the cell and get one of each chromosome.
+	* All the homologous pairs line up as pairs in the **metaphase**.
+	* Law of Independent Assortment
+		* Every single gene is independent from one another. (mostly true)
 
 ## Explain where and how the law of independent assortment and the law of segregation are fulfilled by meiosis.
 
@@ -178,6 +206,8 @@ So if we've got one S you are more resistant. If you get two S's then you're tot
 
 ## Determine all possible gametes that can result from a given parent.
 
+## Defining Sex
+A persons sex is defined by whether they make eggs or sperm. The Y chromosome has something called SRY that makes the gonads fall.
 
 
 # Day 19  
