@@ -1,6 +1,10 @@
 # Exam 3 Review
+# Table of Contents
+* [Day 15](#day-15)
+* [Day 16](#day-16)
+* [Day 17](#day-17)
 
-# Day 15  
+# Day 15
 ## Terminology
 
 | Term | Definition |
@@ -94,8 +98,6 @@ Once you know the answer to these questions, use the following definitions and s
 
 ## Determine probabilities of each genotype and phenotype given the proportion of alleles in a population.
 
-
-
 ## Determine allele frequencies given genotypes/phenotypes in a sample of individuals.
 
 ## Determine the change in allele frequencies that will occur in a population over each generation.
@@ -178,7 +180,7 @@ So if we've got one S you are more resistant. If you get two S's then you're tot
 | Homologous | Same genes, same order, but **NOT** necessarily the same alleles
 | Sister Chromatid | Duplicates of a chromosome
 
-## Something to do with $n$
+## Genetic Equation
 $$
 an=b
 $$
@@ -188,7 +190,11 @@ $$
 
 ## Draw the process of meiosis.
 
+![](img/exam_3_0.png)
+
 **Meiosis** is a type of cell division that reduces the number of chromosomes in the parent cell by half and produces four gamete cells. So it's turning diploids into a haploids.
+
+
 
 ### Sperm production example
 Jack has a $2n=46$ structure (like all people). Since it's $2n$ he's got diploid cells.
@@ -205,7 +211,32 @@ Jack has a $2n=46$ structure (like all people). Since it's $2n$ he's got diploid
 
 ## Determine ploidy number (e.g., diploid and haploid) of a cell based on a figure or description of the cell.
 
+**Diploids** and **haploids** are types of cells:
+* Diploid:
+	* Contains 2 copies of each chromosome
+	* Represented as $a=2$ in the genetic equation $an=b$
+		* e.g. humans are $2n=46$ because they have 23 chromosomes, and their cells are diploid cells, meaning they have 2 copies of each chromosome.
+* Haploid:
+	* Contains 1 copy of each chromosome
+	* Represented as $a=1$ in the genetic equation
+		* e.g. $1n=8 \Rightarrow n=8$ means there's one copy of each chromosome in each cell, and there's 8 total chromosomes.
+
 ## Justify why gametes should have half the number of chromosomes as the parent cell.
+
+A **gamete** is a *haploid* male (sperm) or female egg cell. For humans, their equation is:
+$$
+n=23
+$$
+Because there's 23 unique chromosomes, and a sperm and egg cell each contains one copy of each of them.
+
+Because humans reproduce meiotically (their sex cells are diploids and they split), a sperm and egg have to each have half of the genome required to create a new person.
+
+In terms of the equation think of it like this:
+$$
+\text{
+	2 of ($\overset{\text{haploid gametes}}{n = 23}$) = ($\overset{\text{diploid zygote}}{2n=46}$)
+}
+$$
 
 ## Determine all possible gametes that can result from a given parent.
 
