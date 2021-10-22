@@ -79,7 +79,7 @@ $p \iff q$ is called *biconditional statement*.
 | F   | T   | F
 | F   | F   | T
 
-* Bi-implication of $p$ and $q$ is (\text{$p$ if and only if $q$})
+* Bi-implication of $p$ and $q$ is ($\text{$p$ if and only if $q$}$)
 * `biimplication(p, q) = p == q`
 
 ### Precedence of Logical Operators

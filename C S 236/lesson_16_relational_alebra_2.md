@@ -92,6 +92,12 @@ Each **unary operator** operates on a relational table and returns a new relatio
 		* if these values are not in the domain, then the result is an empty table.
 * Again, the original table is not modified.
 
+###### A more complete description:
+> Let $R$ be an $n$-ary relation and $C$ and condition that elements in $R$ must satisfy. Then the selection operator $s_C$ maps the $n$-ary relation $R$ to the $n$-ary relation of all $n$-tuples from $R$ that satisfy the condition $C$.
+
+> Simply put, the selection operator creates a new relation, let’s call it $\text{Select}_C(R)$ from an existing relation $R$ by **eliminating tuples** from $R$ that don’t satisfy the condition.
+
+
 For example:
 
 ![](img/lesson_16_1.png)
@@ -106,6 +112,11 @@ For example:
 	* You can specify any number of column labels.
 	* All column labels specified must be in the schema.
 * You can reorder columns by changing the order you list column labels
+
+###### A more complete description:
+> The projection $P_{i_1,i_2,\dots,i_m}$, where $i_a < i_2 \dots i_m$, maps the $n$-tuple $(a_1,a_2,\dots,a_n)$ to the $m$-tuple $(a_{i_1},a_{i_2},\dots,a_{i_m})$, where $m \leq n$.
+
+> Simply put, the projection operator creates a new relation, let’s call it $\text{Project}_{\text{KeepAttributes}}(R)$ from an existing relation R by **eliminating attributes** that don’t match the list of attributes.
 
 Examples:
 
@@ -122,6 +133,11 @@ Examples:
 	* $A$ must be in the schema
 	* $Z$ cannot already be in the schema
 	* Results in a new table in which the column label $A$ is renamed to $Z$.
+
+###### A more complete description:
+> The rename operator maps the relation $R$ with a scheme consisting of the following attributes $(A_1,A_2,\dots,A_{i−1},A_i,A_{i+1},\dots,A_n)$ to a new relation $\rho_{A_i \leftarrow B_i} (R)$ with a scheme consisting of the following attributes, $(A_1,A_2,\dots,A_{i−1},B_i,A_{i+1},\dots,A_n)$.
+
+> Simply put, the rename operator creates a new relation, let’s call it $\text{Rename}_{A \leftarrow B}(R)$ from an existing relation $R$ by changing one attribute from $A$ to $B$.
 
 For example:
 
@@ -184,7 +200,7 @@ See `pdf/RelationalDataModel.pdf` for examples. This is pretty trivial so I'm no
 * Same as intersection of two relations except:
 	* The schema of each relational table must be the same
 
-### Cross-product, \times
+### Cross-product, $\times$
 * Same as cross-product of two relations.
 * Creates all possible combinations (again: **order matters**).
 * Schema must be **completely different**

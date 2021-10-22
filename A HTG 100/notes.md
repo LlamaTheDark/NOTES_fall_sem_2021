@@ -560,7 +560,104 @@ At first people disregarded it. It was designed first and foremost for domestic 
 
 ## 10/13 - Drafting Constitutions
 
+### Lucius Quinctius Cincinnatus
+* Moral behind the movie Gladiator
+* He wanted to be a farmer, but everybody knew he was the man, so they made him dictator in times of hardship and war.
+* Considered one of the great roman statesman and generals
+
+### George Washington
+* Consciously emulated Cincinnatus
+	* they (his soldiers and stuff) actually founded an order called the order of Cincinnatus
+* Passes a great test that few ever do.
+* We're lucky we have a government at all, and Washington is a big part of how it came about.
+* Washington is a **symbol** of a whole host of things.
+* Just as Cincinnatus passed his test, Washington passed *his* test.
+* He was the leader of an army that was being mistreated, but he didn't let the government get taken over by said army.
+	* People were going to have the army march on the government in Philadelphia (tried to go over Washington's head because they knew he wouldn't go along with it).
+* Washington's virtue
+	* Self-interest is important as a motivating force
+	* The founding would have been impossible without Washington's virtue and the virtue he inspired in others
+* Washington really liked theatrical gestures
+	* Washington put on plays all the time even when congress outlawed it.
+	* > I have not only grown gray but almost blind in the service of my country
+* The aforementioned test was:
+	* He turned down the **kingdom**.
+	* The very **existence** of the United States government is owed to George Washington
+	* In 1783, he tendered his resignation
+
+
+### *How do we divide power within a government and across different levels of government*?
+* They didn't capitalize *united* when they talk about the "united States" in the constitution.
+	* Washington capitalized "United" in "United States" in his "First" Farewell Address
+
+### The Articles of Confederation
+* A defensive alliance of sorts between states
+* The government they created to get them through the war.
+* They didn't agree on a whole lot
+* The government was very ineffective during the war and even (maybe even especially) after.
+* So much of Washington's time in the army was spent asking the congress for basic supplies.
+	* The central government was *weak*
+	* Hamilton and Washington were like bruh this aint gonna work very well
+* The problem was that each state maintained complete sovereignty. So it was a very *loosely* united states
+* Our central course question was ***their*** question as well, and the AoC were not answering it well.
+* The constitutions that they wrote all placed power in the legislatures.
+* This is where **James Madison** comes in
+	* He gets them to revise the articles of confederation
+* Other good people (i think they signed it the constitution):
+	* William Patterson
+	* James Wilson
+	* Roger Sherman
+	* Gouverneur Morris
+		* Ya boi drafted the constitution
+	* George Madison
+	* John Rutledge
+	* Benjamin Franklin
+	* George Washington
+
+### James Madison
+> The Father of the Constitution
+
+First idealized a government that placed the power in the people as whole instead of individual states.
+
+This is the guy that they named Madison Square after.
+
+#### Common Assumptions at the close of the Revolution
+
+* There is a high-level of self-government among the people.
+* The society will rely on free exchange with little government interfer3ence
+* The executive branch should be weak to nonexistent
+* Small states are better than large states and most power and sovereignty should be retained by the states.
+
+Madison thought: "Vices of the Political System of the United States"
+* You can't trust the states
+* The people in charge of them aren't *great*.
+* Madison thinks there are problems in:
+	* representative bodies [corruption, dupes, etc...]
+	* people themselves [factions like the rich against the poor or even poor against rich]
+	* Any individual faction is able to get control of the government.
+
+#### The Structure of the Articles of Confederation
+* Each state retained sovereignty
+* There was no single chief executive
+* Each state legislature appointed between two and seven delegates (which they sometimes called ambassadors)
+* Each state had an equal vote - with the assent of nine states required for most actions.
+* THERE ARE 2 MORE, TAKE NOTES
+
+> Getting rid of the Articles of Confederation and moving to a national government was one of the biggest expansions in United States history.
+
+
+### Failing Institutions
+* Examples:
+	* Inflation of the USD
+	* Shay's rebellion
+		* Fighting with the state government
+		* Virtue in the government was not saving them as a country
+
 ## 10/15 - (LAB) Debating Constitutions
+Many different ideas about equality get quietly embedded in the Declaration of independence
+* Equality of Opportunity
+* Equality Before the law
+* Equality of Rights
 
 ## 10/18 - Fights at the Federal Convention of 1787
 

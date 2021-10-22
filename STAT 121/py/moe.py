@@ -16,6 +16,6 @@ x_ = 195
 
 # print(f'required n = {((sd_*z_)/6.8)**2}')
 
-print(calc_conf(1.811868, 1.96, 3.3, 1648))
-
-print(moe(1.96, 3.3, 1648))
+# print(calc_conf(1.811868, 1.96, 3.3, 1648))
+#
+# print(moe(1.96, 3.3, 1648))

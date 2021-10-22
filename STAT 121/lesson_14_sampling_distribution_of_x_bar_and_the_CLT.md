@@ -8,7 +8,7 @@
 | Population | The entire group of individuals that is the target of our interest. <br> E.g. All BYU full-time students
 | Sample | A subgroup of the population from which we obtain information. <br> E.g. 170 BYU full-time students
 | Parameter | A numerical fact about the population. <br> E.g. $\mu$, the average GPA of all full-time BYU students
-| Statistic | Numerical fact about the sample. <br> E.g. $\bar{x}$, the average GPA of the 170 students in our sample
+| Statistic | A numerical fact about the sample. <br> E.g. $\bar{x}$, the average GPA of the 170 students in our sample
 
 ## New Notation:
 | Notation | Meaning |

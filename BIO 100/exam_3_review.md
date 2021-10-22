@@ -210,7 +210,30 @@ Jack has a $2n=46$ structure (like all people). Since it's $2n$ he's got diploid
 A persons sex is defined by whether they make eggs or sperm. The Y chromosome has something called SRY that makes the gonads fall.
 
 
-# Day 19  
+# Day 19
+## Inheritance Table
+| Type of Inheritance | Genotypes | Phenotypes | Picture |
+|---------------------|-----------|------------|---------|
+| Complete Dominance  | AA<br> Aa<br> aa<br> | Dominant<br>Dominant<br>Recessive |
+| Codominance | AA<br>AB<br>BB | "A" Phenotype<br>Both Phenotypes<br>"B" Phenotype |
+| Incomplete Dominance | aa<br>ab<br>bb | "a" Phenotype<br>Blended<br> "b" Phenotype
+
+* For **incomplete dominance**, an 'ab' phenotype results in a blended phenotype rather than both showing contrastingly.
+	* e.g. 'aa' is red, 'bb' is blue, then 'ab' results in purple
+
+## Blood Types
+### ABO
+There are 3 alleles: `A`, `B`, `i`
+* `AA`, `Ai`: A
+* `BB`, `Bi`: B
+* `ii`: O
+* `AB`: AB
+
+### Rh Gene
+This is the positive/negative thing
+* `++`, `+-`: $\text{Rh}+$
+* `--`: $\text{Rh}-$
+
 ## Predict genotypes given phenotypes of family members, from word problems and pedigrees.
 
 ## Solve problems about traits expressing complete dominance, codominance, and incomplete dominance.
@@ -241,8 +264,29 @@ A persons sex is defined by whether they make eggs or sperm. The Y chromosome ha
 
 
 
-# Day 22  
+# Day 22
+## Terminology
+| Term | Definition |
+|------|------------|
+| Mitosis | Process used by the body to repair and grow cells. It's an exact replication of a cell. It creates an exact copy. |
+| Interphase: $G_1$ | Gap 1: Where the cell is doing it's job. This when a cell is being a cell. Like a heart cell is pumping the blood
+| Interphase: $S$ | Synthesis
+| Interphase: $G_2$ | Gap 2: Doing it's job again
+| Checkpoints, What do they check? | Checks for errors in DNA, damage, health, do we need another cell? |
+| $G_0$ | "Retirement" of the cell. Still doing it's job but it's not gonna reproduce. Fancy term is *senesence* |
+| Apoptosis | Cell death - on purpose. Cellsuicide. Celluicide. |
+
 ## Compare and contrast meiosis and mitosis.
+While **meiosis** halves the number of chromosomes in the process of creating a new cell, **mitosis** duplicates a cell. So for **meiosis**:
+$$
+2n \rightarrow n
+$$
+But for **mitosis**
+$$
+2n \rightarrow 2n
+$$
+
+When thinking about whether an event is mitotic or meiotic, only look at the chromosome number.
 
 ## Diagram the key steps in each phase of the cell cycle and in each phase of mitosis.
 
@@ -255,3 +299,28 @@ A persons sex is defined by whether they make eggs or sperm. The Y chromosome ha
 ## Determine at which checkpoint a cancerous cell has experienced a mutation.
 
 ## Predict the effect of lengthening telomeres.
+
+## Control Mechanisms
+* Tumor suppressors - "off switches" - e.g. p53
+* Proto-oncogenes - "on switch" - e.g. Cyclin
+* Contact Inhibition
+* Anchorage Dependence
+* Telomeres
+	* Every time you go through the S phase, the telomeres get a bit shorter
+	* A cell can only go through mitosis a certain number of times.
+	* Telomosomething enzyme lengthens telomeres in the balls and also in cancer cells
+
+## Benign vs. Malignant
+These are two different types of growth.
+* Benign expands but stays within its cell type.
+* Malignant is expansion and inflitration of other cell types.
+
+## How to Treat Cancer
+* Slash
+	* you go in and physically remove it
+* Burn
+	* Burn it off with radiation. Cause a bunch of DNA damage so it goes through apoptosis
+* Poison
+	* Chemotherapy
+	* Targets cells that are going through mitosis
+	* So it kills cancer cells but also kills your other cells.

@@ -47,14 +47,14 @@ The following are 3 different things:
 * The Law of Consecration
 	* Based on 3 doctrines:
 		* D&C 42:32
-		1. Agency: the power to act
-		2. Stewardship: The things that we have to act upon (D&C 42:53-54)
-		3. Accountability: God requires an accounting of every steward and agent
+		1. ***Agency***: the power to act
+		2. ***Stewardship***: The things that we have to act upon (D&C 42:53-54)
+		3. ***Accountability***: God requires an accounting of every steward and agent
 		* These principles (especially 1. and 2.) are key differences between this and communism.
 	* The Commandments Governing the Law of Consecration (D&C:42)
 		* (4-9) Go and gather Israel
 		* (18-29) Obey God's laws
-		* (39-35) Remember the poor
+		* (30-35) Remember the poor
 
 
 ### Covenants of the Endowment

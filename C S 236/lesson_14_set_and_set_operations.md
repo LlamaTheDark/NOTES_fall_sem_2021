@@ -83,6 +83,9 @@ $$
 ### Power Set
 * The **power set** of a set $S$ is the set of all subsets of $S$.
 * It is denoted by $\mathcal{P}(S)$
+	* $\mathcal{P}(S)=\{P|P \subseteq S\}$
+* recall: [the empty set is a subset of every set.](#subsets) and is therefore a member of every power set.
+	* i.e. $\varnothing \subseteq S$
 * Alternate notation for the power set of $S$ is $2^S$
 	* This stems from the cardinality of the power set of $S$
 $$
