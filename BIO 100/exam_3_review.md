@@ -18,6 +18,7 @@
 Dominant alleles don't take over the world because they are different frequencies. E.g. dwarfism, 6 fingers. Both of those are dominant but they are in low frequency. If you don't have dwarfism or 6 fingers you are likely homozygous recessive.
 
 ## Use the knowledge that for every gene, an individual possesses two alleles and that sometimes one allele is dominant and one allele is recessive, to solve genetics problems.
+[click here](#problem-solving-strategy) for the section on problem solving.
 
 ## What is a Punnett Square?
 
@@ -71,6 +72,8 @@ Furthermore, your **phenotype frequencies** are described as:
 ## Problem Solving Strategy
 1. What have you been given?
 2. What is being asked for?
+
+The answer to both of these questions will be:
 * A genotype?
 * A phenotype?
 * An allele?
