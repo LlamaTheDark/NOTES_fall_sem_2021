@@ -70,7 +70,7 @@ Hypothesis testing also gives a range as an estimation, but does so by testing a
 * Categorical data example:
 	* Researchers believe that the proportion of infected bamboo cutting boards is $2\%$. Based on a sample of $n = 144$ households, we found that the proportion of infected bamboo cutting boards was $10.4\%$. This statistic provides evidence that the proportion of infected bamboo cutting boards is greater than $2\%$.
 
-## Conclusions for Inference
+## Conditions for Inference
 There's lots of conditions but these are the two most prevalent.
 * Randomness in data collection or independence condition
 	1. Check whether the data came from random samples or randomized experiments
