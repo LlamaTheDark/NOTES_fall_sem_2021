@@ -6,7 +6,7 @@ How do we get to a good society? A just society?
 
 Central Course Questions:
 - How can we foster a society that resolves conflicting interests and fosters beneficial cooperation while maintaining both order *and* liberty?
-  - How should we design a government for this society? Should it be powerful or weak? Centralized or decentralized?
+  - How should we design a government for this society ? Should it be powerful or weak? Centralized or decentralized?
   - When and where does a market — something very decentralized — serve our needs? When does it not serve those needs?
   - How have the different types of power — centralized and decentralized — turned out in society?
 
@@ -666,17 +666,186 @@ Many different ideas about equality get quietly embedded in the Declaration of i
 ## 10/22 - (LAB) Debating Constitutions Continued
 
 ## 10/25 - From Ratification to Rights
+### Notes from the Lecture
+* People were scared of having so much power in one centralized government, so they made the **bill of rights**.
+* The constitution lacked a bill of rights.
+* The anti-federalists insisted on a bill of rights.
+* All the states that were closely divided on the constitution passed amendments to the bill of rights.
+* Debates we have now are more about concepts which are difficult to legislate into narrowly drafted ideas.
+* Somewhere between the declaration and the preamble, we became **U**nited states, instead of **u**nited states.
+
+### Sam Adams
+* Crucial in keeping the debate on whether or not the constitution is good alive.
+* Federalists didn't like the constitution.
+* There was a lot of debate about the constitution.
+
+### Voting
+* Lots of the states are very close (Massachusetts, Virginia, New York, etc...)
+* At the same time, the qualifications for **who** could vote was not completely representative of the population (had to be male, over 21, white in some states).
+> In the new code of laws, ... [abigail adam's statement on women's rights to vote]
+
+> [John Adam's response]
+
+* Laws that existed at the time were under *coverture*
+	* That is, upon marriage, a woman's rights were subsumed and taken over by her husband.
+	* However, in some cases, such as with widows who inherited their husband's political/public responsibilities, this did not affect participation of women in laws.
+* Though it has vices, it was probably the *most* democratic system on the planet at the time
+### Consent: **original** and **periodic**
+* Options for "Consent": Send the constitution to:
+	* the Articles of Confederation Congress
+	* the state legislatures
+	* the people directly
+	* <mark>state ratifying conventions - elected by the people</mark>
+* The highlighted one is what they actually did.
+	* Some advantages:
+		* The state legislatures (or the Congress) had no opportunity to amend the document.
+		* State legislators had no chance to delay
+		* Angry legislators had no chance to challenge the legality of the document.
+	*
 
 ## 10/27 - Founding Parties and Interpreting the Constitution
 
+
 ## 10/29 - (LAB) Parties, Rights, & the Threats to Both
+* 2 types of Representation
+	1. PR System
+		* Proportional Representation
+		* Parliamentary system
+		* Coalition Blackmail
+			* When a small party forces the rest of the coalition to give in to their demands
+	2. Single Member Plurality
+		* Winner takes all
+		* More conducive to a 2 party system
+
 
 # <u>Act III: The Historical Legacy of the Founding</u>
 ## 11/1 - The American Founding in Comparison
+What metric do we use to assess the American founding, and to what do we compare it to?
+
+What standard do we use to judge their efforts?
+* Compared to "now"?
+	* the founding fathers suffer
+	* to be fair, so would we if they were looking at our time period
+* Compared to "what came beforehand"?
+	* the founding fathers probably look the best in this light
+* Compared to "what else was going on in the world"?
+
+
+### The French Revolution
+Two (Parts to the) French Revolution(s).
+1. The Good One
+2. The Bad One
+
+Why was their revolt justified? **The Good Part**:
+* The Enlightenment
+	* Don't be told what to think, think it out for yourself
+* Marie Antonette
+	* She was crazy but she was just living as she was expected to.
+* They were in some pretty bad financial debt (largely actually because of their support of the American Revolution).
+* Do we vote by **order** or by **head**?
+	* Order: only 3 votes - clergy, nobility, commoners (the 3 estates)
+		* What would happened is the clergy and the nobility would always agree and outvote the commoners
+	* So the commoners were like bruh we make up 95% of this population, let's count *heads* instead.
+		* The kings like nah
+		* so they go to a tennis court and take an oath to stick together and remake France. This is the **tennis court oath**.
+			* They create the "Declaration of the Rights of Man".
+
+The **BAD PART**:
+* So they had their political movement and it's slogan ended with "or death"...
+* Maximilien de Robespierre really liked and believed in the revolution.
+	* The road to virtue led not through persuasion, but through terror.
+	* They remade the world, changing religion, measurement, and a bunch of other stuff
+		* A lot of catholic related stuff was outlawed, they had a lady come out of a hole and make a new religion for the state
+		* calendar became 10 days for a week
+* The Reign of Terror
+	* They started executing lots of people
+		* At first, just criminals
+		* Then, it was just anybody who was a problem or even suspected of being anti-revolutionary
+	* 16,954 "official" sentences
+		* But in reality there were so so many more
+		* At one point it was 800+ people per day.
+	* Robespierre's revolution got super out of control, so he gets executed.
+		* He first gets shot in the jaw, then guillotined.
+	* Prime example of the human predicament cycle
+		* Tyranny with the king, anarchy with robe boy, and then goes back to tyranny, except now we have napoleon at the head
+
+* Why the difference in American Revolution and French Revolution?
+	* There's a bunch of reasons in the slides, but I think it's because the French bit off more than they could chew.
+	* The Americans all committed to the institutions (though flawed as they may be).
+	* The French did **not** do very well committing to the institutions.
+		* The French had like 7 constitutions, turned out to be more of a periodical
+
+> Injunctions to virtue can be very fragile when not supported by good institutions.
 
 ## 11/3 - Frontier Politics to Abolition
 
+### Frederick Douglass
+* Was a slave
+* Was also a literal stud. like seriously a legend
+* Key figure in the abolitionist movement.
+* Made a point of being photographed.
+	* constantly thought about his image
+
+### The West and Jackson
+* America was mainly an eastern seaboard place, but it quickly started moving west.
+* Rather than colonies, we would have states equal with the original colonies.
+* Very systematic survey of the land that takes decades to complete that divides the land down to the mile. They then sale it.
+* Geographic mobility led to economic mobility.
+* Turner's thesis - the west may have served as a "safety valve"
+* A common **democracy**.
+* Country could grow because of the cheap land and expensive labor.
+
+#### The Northwest Ordinance
+* About what they though of as the north west (what is now the midwest)
+
+### The Age of Jackson
+* Becomes president 1829-1837, 7th president
+* Led a new kind of politics
+* Emotional sympathy with his politics - cared about people.
+* He drew on people as president.
+* Quite an ambiguous character.
+* Command and follow kind of thing
+	* Authoritarian in his leadership style
+	* Also symbol of growth in American democracy
+	* More Americans decided to participate in American democracy than ever before *because* of him.
+	* He does both good and bad things
+* <u>Good Things:</u>
+	* Broadens the electorate
+		* So much more democratic
+		* Advancement along the lines of class
+	* Democracy should be more inclusive
+* <u>Bad Things:</u>
+	* Racial / Ethnic discrimination
+	* Takes land from the natives
+	* "Trail of Tears"
+		* Pushes natives off of land - even that which was *agreed* upon.
+* Partner: Martin Van Buren
+	* The real intellectual driving force
+	* Wants a new party system.
+
+### Slavery
+* The founders pretty much just believed that slavery would go away at some point.
+* Slaves were a profitable investment
+* The system is evil not because people are mean, but because it reduces human beings to being a commodity.
+* Slave owners (in the south) got about 1/3 of their income.
+* Slaves were treated (relatively) well because they were protecting their *investment*.
+* Northerners were not as dependent on slavery. They believed slavery dehumanized both white and black people.
+	* turned white people into brutes
+* Uncle Tom's Cabin
+
+
+### Failure of the Founding Institutions
+* Federalism left sovereignty unresolved
+* Separation of powers and checks and balances created gridlock.
+* Politics offered no real way to compromise.
+* Neither institutional design, nor public virtue avoided the catastrophe. So they just debated and debated...
+	* e.g. Lincoln-Douglass debate
+
+
+
 ## 11/5 - (LAB) Theories of American Progress
+### Animal Farm
+Pope says the biggest problem is a lack of institutional design.
 
 ## 11/8 - Saving the Union
 
