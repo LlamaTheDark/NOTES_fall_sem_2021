@@ -847,7 +847,97 @@ The **BAD PART**:
 ### Animal Farm
 Pope says the biggest problem is a lack of institutional design.
 
+### Is Voter Turnout A Problem?
+3 arguments that say nah:
+1. **A conservative argument**: High turnout could indicate tension or conflict in the electorate
+	* Germany had a very high turnout in 1928
+	* Hyperinflation
+2. **An elitist argument**: George Will says "smaller is smarter"
+	* Do we want a bunch of yahoos who are not paying attention deciding elections?
+3. **A cynical argument**: It's really voters that are idiots.
+	* The system is so corrupt that only fools endorse it.
+	* Real power is made by elites far away from elections.
+	* Your vote doesn't change anything anyways so who cares?
+
+3 arguments that say yah:
+1. Low turnout could mean less accurate representation
+	* Presidential elections: not much evidence they would change with higher turnout
+	* Municipal elections: this is a much bigger problem
+2. Low turnout may reflect "phony" issues
+	* People show up to vote about things they care about.
+	* If people aren't showing up to vote, does this mean they don't care about the issues?
+	* Should politicians be doing better at emphasizing the things people actually care about?
+	* Little bit of an "eye of the beholder" question
+3. Low turnout may discourage individual development
+	* Probably?
+	* Enough to enforce it?
+	* If they're not gonna vote, they probably won't think about the issues, research the candidate, etc...
+
+#### The Failure of the Founding Institutions
+* Election of 1860 ended in gridlock - federalists had no solution for slavery.
+* Federalism left sovereignty unresolved.
+* Separation of powers and checks and balances created gridlock.
+* Politics offered no real way to compromise.
+* Neither institutional design, nor public virtue avoided the catastrophe. So they just debated and debated...
+
+
+
 ## 11/8 - Saving the Union
+### Lecture Notes
+#### Joshua Lawrence Chamberlain
+While the beginning of the war is not about freeing the slaves, it **is** by the end of the war.
+* Chamberlain was a professor at Bowdoin College, he had a promising academic career and then joined the military.
+
+#### Dred Scott
+* A real person but he was involved in a court case
+* The court case that enraged the north
+* The ruling invalidated the Missouri Compromise, making the northerners angry and the southerners nervous.
+* Provoked conflict that led to civil war
+
+#### Can states withdraw from the union?
+* We had **original consent** but if the southerners decide they don't consent to it anymore then there it is.
+* Question of sovereignty
+* Lincoln, in his first inaugural address, is like "you don't get to leave sorry bro".
+
+#### Did the South Stand a chance?
+* YES they did
+* It's possible to lose even without advantages.
+* Robert E. Lee was an **excellent** general.
+	* Grant says he's an honorable man and a really good general but just fought for a bad cause.
+* Northern Generals were pretty dang bad.
+	* Mclellan was good at everything but the *fighting* part. loses first battle of bull run
+	* Pope loses second battle of bull run
+	* bring back mclellan and then loses battle of Antietam. He literally fell upon the plans for the south's army
+	* Burnside tried to attack across a pontoon bridge, an entrenched position, up a hill, just after crossing a river
+	* Meade wins gettysburg but doesn't actually make any decisions to do it.
+	* Robert Gould Shaw
+		* not a general but super rad (matthew broderick in Glory)
+* Little Round Top
+	* An important and frequently dramatized battle
+	* plays a role in the battle of Gettysburg
+	* If Lee can take Round Top they can fire cannons down on the union line and basically win the war
+	* This is where Chamberlain comes back into play. He's important here.
+	* They weren't issued enough ammo initially, so Chamberlain needs to figure out what to do.
+	* So chamberlain frickin charges em with bayonets.
+	* Lee is like bruh if they can charge so can we but then he sucks at it and it doesn't work.
+* The Civil War is **not** won because of carefully calculated interests.
+
+#### After the War
+* Reconstruction after the war is not really a success
+* Initially alienated the southern elite
+* Loyal southerners were given no role in the new government
+* Freedmen aren't really given any economic provisions
+	* Hard for freed slaves to participate in new economy
+* Once Grant was gone, the north didn't really try to protect the rights of former slaves
+	* Leads to the Jim Crow regime.
+* Thaddeus Stevens
+	* Along with other radical Republicans, he really wants to punish the south
+* Impeach Andrew Johnson
+* The structure failed the country and the republic was only rescued by extraordinary sacrifice and countless cost
+
+#### Lincoln
+* Both Northerners and Southerners kinda didn't like Lincoln throughout a lot of the war.
+* The war took a *toll* on Lincoln.
 
 ## 11/9 - Glory (FILM)
 
